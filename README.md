@@ -4,9 +4,9 @@ An AR solar system space walk application built in Unity. This application uses 
 ## Gameplay
 Press the Start button to begin the walk and place the Sun in AR. As you walk away from the Sun, your location is recorded via GPS location data. Notifications will appear when you encounter a celestial object such as a planet. You can stop, place the object in AR, and explore and investigate the object, or you can continue the walk.
 
-![Space Walk gameplay](https://github.com/mklewandowski/space-walk/blob/main/Assets/Images/gameplay.gif?raw=true)
+![Space Walk gameplay](https://github.com/mklewandowski/ar-space-walk/blob/main/Assets/Images/gameplay.gif?raw=true)
 
-![Space Walk gameplay](https://github.com/mklewandowski/space-walk/blob/main/Assets/Images/screenshot.png?raw=true)
+![Space Walk gameplay](https://github.com/mklewandowski/ar-space-walk/blob/main/Assets/Images/screenshot.png?raw=true)
 
 ## Supported Platforms
 This project is designed for use on both iOS and Android, but it has only been tested on Android.
