@@ -14,7 +14,7 @@ This project is designed for use on both iOS and Android, but it has only been t
 ## Running Locally
 Use the following steps to run locally:
 1. Clone this repo
-2. Open repo folder using Unity 2021.3.11f1
+2. Open repo folder using Unity 2021.3.16f1
 3. Import TextMeshPro
 
 ## Project Structure
@@ -52,5 +52,5 @@ Some models may have difficulty working properly in AR or need special adjustmen
 - in this project, I created a new material for each model and applied the associated texture in the albedo field. Check the smoothness and other material settings to ensure they align with the original asset material or with the desired rendering of the model.
 
 ## Development Tools
-- Created using Unity 2021.3.11f1
+- Created using Unity 2021.3.16f1
 - Code edited using Visual Studio Code
